@@ -17,6 +17,6 @@ Crear un diagrama de flujo que ejecute las acciones siguientes:
 
   B. Si el usuario elige No (que es la respuesta False (falso):
 
-		Realizar la misma serie de acciones que en la rama True. Pero, en lugar de escribir Correct, debe escribir Incorrecto en el Bloc de notas.
+		Realizar la misma serie de acciones que en la rama True. Pero, en lugar de escribir Correcto, debe escribir Incorrecto en el Bloc de notas.
 		Para finalizar, se cierra la aplicación Bloc de notas.
 
